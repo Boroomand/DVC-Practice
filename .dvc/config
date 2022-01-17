@@ -1,6 +1,0 @@
-[core]
-    remote = storage
-['remote "storage"']
-    url = gdrive://1kJCEnM8hUOIxFBZ86BOUnEUfF6BEmuEU
-['remote "myremote"']
-    url = /tmp/dvcstore
